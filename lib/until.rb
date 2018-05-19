@@ -13,3 +13,17 @@ end
 #    break
 #  end
 #end
+
+#while
+#counter = 0
+#while counter < 20
+#  puts "The current number is less than 20."
+#  counter += 1
+#end
+
+#until
+#counter = 0
+#until counter == 20
+#  puts "The current number is less than 20."
+#  counter += 1
+#end
