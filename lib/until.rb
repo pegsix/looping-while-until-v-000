@@ -1,8 +1,17 @@
 def using_until
         levitation_force = 6
-        #your code here
-
+        while levitation_force < 10
+        puts "Wingardium Leviosa"
+        counter += 1
+        end
 end
+
+#while
+#counter = 0
+#while counter < 20
+#  puts "The current number is less than 20."
+#  counter += 1
+#end
 
 #counter = 0
 
@@ -14,12 +23,7 @@ end
 #  end
 #end
 
-#while
-#counter = 0
-#while counter < 20
-#  puts "The current number is less than 20."
-#  counter += 1
-#end
+
 
 #until
 #counter = 0
